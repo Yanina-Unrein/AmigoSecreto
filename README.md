@@ -24,12 +24,12 @@ A continuación, se muestran algunos ejemplos de cómo interactuar con la aplica
 
 ### 1. **Pantalla inicial con el campo de entrada**
 
-![Pantalla de ingreso](assets/pantalla_ingreso.jpg)
+![Pantalla de ingreso](assets/pantalla_ingreso.JPG)
 
 ### 2. **Lista de amigos añadidos**
 
-![Lista de amigos](assets/lista_amigos.jpg)
+![Lista de amigos](assets/lista_amigos.JPG)
 
 ### 3. **Resultado del sorteo**
 
-![Resultado del sorteo](assets/resultado_sorteo.jpg)
+![Resultado del sorteo](assets/resultado_sorteo.JPG)
